@@ -1,7 +1,7 @@
 This is a [Giter8][g8] template for Scala.
 
 ```
-sbt new pascaldanek/scala-seed.g8
+sbt new pascaldanek/minimal.g8
 ```
 
 Template license
